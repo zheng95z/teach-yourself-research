@@ -23,9 +23,9 @@ Here are some useful tips for you to find what you want:
 
 | Name                   |                                                              | Link                                                         |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Academic Phrasebank    | The Academic Phrasebank is a general resource for academic writers. It aims to provide you with examples of some of the phraseological ‘nuts and bolts’ of writing organised according to the main sections of a research paper or dissertation | [Home Page](https://www.phrasebank.manchester.ac.uk/)        |
-| LaTeX tables generator | Entering tables in LaTeX documents can be burdensome because of the necessary formatting directives. For this purpose we created this online generator which (hopefully) will allow you to generate LaTeX code you can just copy & paste into your document's source. | [Home Page](https://www.tablesgenerator.com/)                |
-| Scrivener              | Scrivener is the go-to app for writers of all kinds, used every day by best-selling novelists, screenwriters, non-fiction writers, students, academics, lawyers, journalists, translators and more. Scrivener won't tell you how to write—it simply provides everything you need to start writing and keep writing. | [Home Page](https://www.literatureandlatte.com/scrivener/overview) |
+| Academic Phrasebank    | The Academic Phrasebank is a general resource for academic writers. It aims to provide you with examples of some of the phraseological ‘nuts and bolts’ of writing organised according to the main sections of a research paper or dissertation | [Homepage](https://www.phrasebank.manchester.ac.uk/)         |
+| LaTeX tables generator | Entering tables in LaTeX documents can be burdensome because of the necessary formatting directives. For this purpose we created this online generator which (hopefully) will allow you to generate LaTeX code you can just copy & paste into your document's source. | [Homepage](https://www.tablesgenerator.com/)                 |
+| Scrivener              | Scrivener is the go-to app for writers of all kinds, used every day by best-selling novelists, screenwriters, non-fiction writers, students, academics, lawyers, journalists, translators and more. Scrivener won't tell you how to write—it simply provides everything you need to start writing and keep writing. | [Homepage](https://www.literatureandlatte.com/scrivener/overview) |
 
 ### Courses
 
