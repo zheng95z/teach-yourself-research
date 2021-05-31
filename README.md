@@ -26,8 +26,23 @@ Here are some useful tips for you to find what you want:
 | Academic Phrasebank    | The Academic Phrasebank is a general resource for academic writers. It aims to provide you with examples of some of the phraseological ‘nuts and bolts’ of writing organised according to the main sections of a research paper or dissertation | [Homepage](https://www.phrasebank.manchester.ac.uk/)         |
 | LaTeX tables generator | Entering tables in LaTeX documents can be burdensome because of the necessary formatting directives. For this purpose we created this online generator which (hopefully) will allow you to generate LaTeX code you can just copy & paste into your document's source. | [Homepage](https://www.tablesgenerator.com/)                 |
 | Scrivener              | Scrivener is the go-to app for writers of all kinds, used every day by best-selling novelists, screenwriters, non-fiction writers, students, academics, lawyers, journalists, translators and more. Scrivener won't tell you how to write—it simply provides everything you need to start writing and keep writing. | [Homepage](https://www.literatureandlatte.com/scrivener/overview) |
+| Mathpix                | Extract LaTeX from PDFs or handwritten notes in seconds.     | [Homepage](https://mathpix.com/)                             |
+| Note-by-LaTeX          | The opensource repo for my published LaTeX book.<br>by [wklchris.](https://github.com/wklchris) | [wklchris](https://github.com/wklchris)/**[Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)** |
+
+### Articles
+
+| Name                          |                                                              | Link                                                         |
+| ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Tips for technical writing    | List of tips and common mistakes to avoid in technical writing.<br/>by [Wojciech Jarosz](https://cs.dartmouth.edu/~wjarosz/#teaching). | [Homepage](https://cs.dartmouth.edu/~wjarosz/writing.md.html) |
+| Notes on writing              | by [Fredo Durand.](http://people.csail.mit.edu/fredo/)       | [PDF](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)   |
+| How to write a SIGGRAPH paper | SIGGRAPH ASIA 2011 Course                                    | [Slides](https://www.slideshare.net/jdily/how-to-write-a-siggraph-paper) |
 
 ### Courses
+
+| Name                    |                                                              | Link                                                         |
+| ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Writing in the Sciences | This course teaches scientists to become more effective writers, using practical examples and exercises. Topics include: principles of good writing, tricks for writing faster and with less anxiety, the format of a scientific manuscript, peer review, grant writing, ethical issues in scientific publication, and writing for general audiences.<br>by Stanford. | [Homepage](https://www.coursera.org/learn/sciwrite)          |
+| Academic English        | Transform Your Writing Skills. Prepare for college-level writing and research in just four courses.<br>by UCI. | [Homepage](https://www.coursera.org/specializations/academic-english) |
 
 ## **Scientific visualization**
 
@@ -36,8 +51,6 @@ Here are some useful tips for you to find what you want:
 | Name                                           |                                                              | Link                                                         |
 | ---------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Scientific Visualization – Python & Matplotlib | An open access book on scientific visualization using python and matplotlib. | [rougier](https://github.com/rougier)/**[scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)** |
-
-
 
 ### Tutorials
 
