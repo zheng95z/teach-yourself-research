@@ -10,7 +10,7 @@ Here are some useful tips for you to find what you want:
 
 ### Books
 
-| Name                                                         |                                                              | Links                                                        |
+| Name                                                         |                                                              | Link                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | They Say / I Say: The Moves That Matter in Academic Writing  | This book identifies the key rhetorical moves in academic writing. It shows students how to frame their arguments as a response to what others have said and provides templates to help them start making the moves. | [Amazon](https://www.amazon.com/They-Say-Matter-Academic-Writing/dp/0393631672/ref=sr_1_1?dchild=1&keywords=They+Say%2C+I+Say&qid=1621929812&s=books&sr=1-1)<br>[Douban](https://book.douban.com/subject/24762199/) |
 | Art of Styling Sentences                                     | The authors review the fundamentals of good sentence structure and then go on to describe twenty basic sentence patterns that encompass virtually every effective way of writing sentences in English. | [Amazon](https://www.amazon.com/Art-Styling-Sentences-Longknife-Ph-D/dp/0764147838/ref=sr_1_1?dchild=1&keywords=The+Art+of+Styling+Sentences&qid=1621930867&s=books&sr=1-1)<br/>[Douban](https://book.douban.com/subject/7016538/) |
@@ -39,10 +39,11 @@ Here are some useful tips for you to find what you want:
 
 ### Courses
 
-| Name                    |                                                              | Link                                                         |
-| ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Writing in the Sciences | This course teaches scientists to become more effective writers, using practical examples and exercises. Topics include: principles of good writing, tricks for writing faster and with less anxiety, the format of a scientific manuscript, peer review, grant writing, ethical issues in scientific publication, and writing for general audiences.<br>by Stanford. | [Homepage](https://www.coursera.org/learn/sciwrite)          |
-| Academic English        | Transform Your Writing Skills. Prepare for college-level writing and research in just four courses.<br>by UCI. | [Homepage](https://www.coursera.org/specializations/academic-english) |
+| Name                                      |                                                              | Link                                                         |
+| ----------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Writing in the Sciences                   | This course teaches scientists to become more effective writers, using practical examples and exercises. Topics include: principles of good writing, tricks for writing faster and with less anxiety, the format of a scientific manuscript, peer review, grant writing, ethical issues in scientific publication, and writing for general audiences.<br>by Stanford. | [Homepage](https://www.coursera.org/learn/sciwrite)          |
+| Academic English                          | Transform Your Writing Skills. Prepare for college-level writing and research in just four courses.<br>by UCI. | [Homepage](https://www.coursera.org/specializations/academic-english) |
+| English for Research Publication Purposes | In five courses, you will acquire the knowledge and skills that are deemed to be essential to success in scientific writing. You will develop your expertise with a range of academic literacy skills and self-editing strategies to prepare a publishable manuscript that editors will take seriously. You will learn the unwritten rules of good writing to meet the requirements of modern-day research publications. You will also learn practical tools and techniques for writing an easy-to-read persuasive grant proposal and a convincing request for funding. Finally, you will gain skills necessary to communicate information obtained through a process of technical or experimental work.<br>by Moscow Institute of Physics and Technology. | [Homepage](https://www.coursera.org/specializations/english-for-research-publication-purposes) |
 
 ## **Scientific visualization**
 
@@ -64,9 +65,7 @@ Here are some useful tips for you to find what you want:
 | ----------------------- | --------------------------------- | ------------------------------------------------------------ |
 | Matplotlib cheat sheets | Official Matplotlib cheat sheets. | [matplotlib](https://github.com/matplotlib)/**[cheatsheets](https://github.com/matplotlib/cheatsheets)** |
 
-
-
-## Paper reading
+## Paper  reading
 
 ### Tutorials
 
@@ -81,3 +80,13 @@ Here are some useful tips for you to find what you want:
 ## Note taking
 
 ### Tools
+
+## Misc.
+
+### Advice and guidelines 
+
+| Name                                          |                                                           | Link                                                         |
+| --------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ |
+| Advice and Guidelines for Wojciech’s students | by [Wojciech Jarosz](https://cs.dartmouth.edu/~wjarosz/). | [Homepage](https://cs.dartmouth.edu/~wjarosz/policies.md.html) |
+| Advice for early-stage Ph.D. students         | by [Philip Guo](https://pg.ucsd.edu/).                    | [Homepage](https://pg.ucsd.edu/early-stage-PhD-advice.htm)   |
+| A Survival Guide to a PhD                     | by [Andrej Karpathy](https://karpathy.ai/).               | [Homepage](https://karpathy.github.io/2016/09/07/phd/)       |
