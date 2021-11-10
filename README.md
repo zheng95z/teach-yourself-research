@@ -4,7 +4,7 @@ This repo is expected to help you develop the basic research skills, including a
 
 Here are some useful tips for you to find what you want:
 
-- You can now find the autogenerate table of contents in the top left corner (provided by GitHub).
+- You can now find the autogenerate table of contents on the top left corner (powered by GitHub).
 
 ## Academic writing
 
