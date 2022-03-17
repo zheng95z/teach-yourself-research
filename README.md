@@ -1,6 +1,6 @@
 <h1 align="center">teach-yourself-research</h1>
 
-This repo is expected to help you develop the basic research skills, including academic writing, paper reading, presentation, note taking, etc.
+This repo is expected to help you develop the basic research skills, including academic writing, paper reading, presentation, note taking, etc. Feel free to discuss these related topis in the [Discussion](https://github.com/zheng95z/teach-yourself-research/discussions)!
 
 Here are some useful tips for you to find what you want:
 
@@ -83,7 +83,7 @@ Here are some useful tips for you to find what you want:
 
 ## Misc.
 
-### Advice and guidelines 
+### High-level advices and guidelines 
 
 | Name                                          |                                                           | Link                                                         |
 | --------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ |
