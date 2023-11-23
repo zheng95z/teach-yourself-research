@@ -14,8 +14,6 @@ This repo is expected to help you develop the essential mindsets and basic resea
 | Advice for Early-stage Ph.D. Students | Philip Guo | *"Bookmark this page and read it again once every month."*|
 | Advice for First-year Ph.D. Students | Philip Guo | *"Here is a 40-minute talk on advice I would've wanted to hear back when I was a first-year Ph.D. student."*|
 
----
-
 <h2 align="center">On Technical Writing</h2>
 
 ### Books
@@ -44,8 +42,6 @@ This repo is expected to help you develop the essential mindsets and basic resea
 | [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)| The Academic Phrasebank is a general resource for academic writers. It aims to provide you with examples of some of the phraseological ‘nuts and bolts’ of writing organised according to the main sections of a research paper or dissertation |
 | [LaTeX tables generator](https://www.tablesgenerator.com/) | Entering tables in LaTeX documents can be burdensome because of the necessary formatting directives. For this purpose we created this online generator which (hopefully) will allow you to generate LaTeX code you can just copy & paste into your document's source. |
 | [Mathpix]((https://mathpix.com/))| Extract LaTeX from PDFs or handwritten notes in seconds. |
-
----
 
 <h2 align="center">On Visualization</h2>
 
