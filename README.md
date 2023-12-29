@@ -65,3 +65,4 @@ This repo is expected to help you develop the essential mindsets and basic resea
 - [Fredo Durand - Resources for students & scholars](https://people.csail.mit.edu/fredo/student.html).
 - [Aykut Erdem - Resources for grad students](https://aykuterdem.github.io/resources.html).
 - [Matt Might - Books and papers every graduate student should read](https://matt.might.net/articles/books-papers-materials-for-graduate-students/).
+- [Matt Might - Matt Might's blog]
