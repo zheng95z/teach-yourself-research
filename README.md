@@ -1,6 +1,6 @@
 <h1 align="center">teach-yourself-research</h1>
 
-This repo is expected to help you develop the essential mindsets and basic research skills, including academic writing, paper reading, presentation, note taking, etc. Feel free to discuss these related topis in the [Discussion](https://github.com/zheng95z/teach-yourself-research/discussions)!
+This repo is expected to help you develop the essential mindsets and basic research skills, including academic writing, paper reading, presentation, note taking, etc. Issues and PRs are welcome!
 
 <h2 align="center">On Mindsets</h2>
 
