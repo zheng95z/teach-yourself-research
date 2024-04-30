@@ -67,3 +67,4 @@ This repo is expected to help you develop the essential mindsets and basic resea
 - [Matt Might - Books and papers every graduate student should read](https://matt.might.net/articles/books-papers-materials-for-graduate-students/).
 - [Matt Might - Matt Might's blog](https://matt.might.net/articles/)
 - [Research guidelines in deep learning and computer vision - Jan van Gemert](https://jvgemert.github.io/links.html)
+- [Terence Tao - Career advice](https://terrytao.wordpress.com/career-advice/)
